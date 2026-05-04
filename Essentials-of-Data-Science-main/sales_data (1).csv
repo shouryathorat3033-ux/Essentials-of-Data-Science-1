@@ -1,0 +1,501 @@
+OrderID,Month,City,Product,Category,Quantity,Price,Sales,CustomerID
+1000,November,Mumbai,Laptop,Electronics,5,50000,250000,C016
+1001,April,Pune,Refrigerator,Appliances,2,30000,60000,C044
+1002,December,Mumbai,T-Shirt,Fashion,7,600,4200,C003
+1003,January,Mumbai,Mobile Phone,Electronics,4,15000,60000,C033
+1004,October,Mumbai,T-Shirt,Fashion,4,600,2400,C046
+1005,November,Bangalore,Mobile Phone,Electronics,8,15000,120000,C038
+1006,May,Mumbai,Mobile Phone,Electronics,7,15000,105000,C022
+1007,May,Pune,Mobile Phone,Electronics,6,15000,90000,C007
+1008,February,Bangalore,Laptop,Electronics,6,50000,300000,C023
+1009,October,Delhi,Laptop,Electronics,8,50000,400000,C035
+1010,February,Bangalore,Laptop,Electronics,9,50000,450000,C019
+1011,November,Delhi,T-Shirt,Fashion,4,600,2400,C046
+1012,February,Mumbai,Refrigerator,Appliances,4,30000,120000,C050
+1013,May,Mumbai,Mobile Phone,Electronics,2,15000,30000,C025
+1014,May,Bangalore,Refrigerator,Appliances,6,30000,180000,C011
+1015,June,Delhi,Mobile Phone,Electronics,5,15000,75000,C045
+1016,November,Mumbai,T-Shirt,Fashion,3,600,1800,C035
+1017,December,Pune,Mobile Phone,Electronics,8,15000,120000,C025
+1018,May,Pune,Refrigerator,Appliances,6,30000,180000,C050
+1019,January,Pune,Laptop,Electronics,6,50000,300000,C026
+1020,May,Mumbai,Mobile Phone,Electronics,10,15000,150000,C046
+1021,June,Pune,Refrigerator,Appliances,8,30000,240000,C026
+1022,November,Bangalore,Mobile Phone,Electronics,5,15000,75000,C009
+1023,April,Delhi,Refrigerator,Appliances,10,30000,300000,C028
+1024,October,Bangalore,Headphones,Electronics,4,2000,8000,C009
+1025,September,Bangalore,Laptop,Electronics,1,50000,50000,C008
+1026,March,Pune,Refrigerator,Appliances,7,30000,210000,C039
+1027,February,Bangalore,Shoes,Fashion,10,2500,25000,C030
+1028,September,Delhi,T-Shirt,Fashion,1,600,600,C044
+1029,December,Mumbai,Refrigerator,Appliances,9,30000,270000,C049
+1030,May,Delhi,Laptop,Electronics,5,50000,250000,C028
+1031,March,Bangalore,Laptop,Electronics,5,50000,250000,C033
+1032,March,Mumbai,Refrigerator,Appliances,5,30000,150000,C041
+1033,September,Pune,Mobile Phone,Electronics,6,15000,90000,C049
+1034,March,Mumbai,T-Shirt,Fashion,6,600,3600,C032
+1035,January,Mumbai,Headphones,Electronics,5,2000,10000,C016
+1036,January,Pune,T-Shirt,Fashion,2,600,1200,C006
+1037,December,Bangalore,Laptop,Electronics,9,50000,450000,C050
+1038,March,Pune,Refrigerator,Appliances,8,30000,240000,C036
+1039,March,Delhi,T-Shirt,Fashion,10,600,6000,C028
+1040,April,Pune,Refrigerator,Appliances,5,30000,150000,C026
+1041,November,Delhi,Shoes,Fashion,9,2500,22500,C029
+1042,February,Pune,Mobile Phone,Electronics,2,15000,30000,C022
+1043,January,Pune,T-Shirt,Fashion,4,600,2400,C001
+1044,February,Mumbai,Mobile Phone,Electronics,2,15000,30000,C003
+1045,June,Mumbai,T-Shirt,Fashion,4,600,2400,C018
+1046,November,Bangalore,Mobile Phone,Electronics,9,15000,135000,C009
+1047,December,Bangalore,Mobile Phone,Electronics,8,15000,120000,C027
+1048,April,Mumbai,Laptop,Electronics,7,50000,350000,C023
+1049,July,Bangalore,Shoes,Fashion,1,2500,2500,C044
+1050,November,Mumbai,Laptop,Electronics,7,50000,350000,C047
+1051,June,Mumbai,Mobile Phone,Electronics,4,15000,60000,C013
+1052,September,Bangalore,Mobile Phone,Electronics,7,15000,105000,C012
+1053,May,Bangalore,Mobile Phone,Electronics,2,15000,30000,C029
+1054,September,Mumbai,Laptop,Electronics,9,50000,450000,C001
+1055,February,Pune,Mobile Phone,Electronics,7,15000,105000,C032
+1056,August,Pune,Shoes,Fashion,1,2500,2500,C011
+1057,July,Mumbai,Shoes,Fashion,5,2500,12500,C030
+1058,May,Bangalore,Refrigerator,Appliances,9,30000,270000,C043
+1059,December,Bangalore,Mobile Phone,Electronics,4,15000,60000,C019
+1060,April,Mumbai,T-Shirt,Fashion,9,600,5400,C004
+1061,December,Delhi,Laptop,Electronics,1,50000,50000,C038
+1062,August,Pune,Laptop,Electronics,9,50000,450000,C006
+1063,March,Mumbai,T-Shirt,Fashion,2,600,1200,C044
+1064,April,Bangalore,Laptop,Electronics,10,50000,500000,C016
+1065,October,Mumbai,T-Shirt,Fashion,2,600,1200,C027
+1066,November,Delhi,Headphones,Electronics,4,2000,8000,C043
+1067,December,Delhi,Mobile Phone,Electronics,5,15000,75000,C026
+1068,March,Delhi,Shoes,Fashion,6,2500,15000,C049
+1069,February,Mumbai,Shoes,Fashion,10,2500,25000,C037
+1070,February,Mumbai,T-Shirt,Fashion,4,600,2400,C033
+1071,May,Pune,Headphones,Electronics,2,2000,4000,C016
+1072,June,Delhi,Mobile Phone,Electronics,8,15000,120000,C035
+1073,December,Delhi,T-Shirt,Fashion,9,600,5400,C001
+1074,November,Delhi,Refrigerator,Appliances,2,30000,60000,C009
+1075,May,Mumbai,Laptop,Electronics,9,50000,450000,C010
+1076,May,Delhi,T-Shirt,Fashion,4,600,2400,C046
+1077,June,Pune,Refrigerator,Appliances,5,30000,150000,C033
+1078,August,Delhi,Laptop,Electronics,2,50000,100000,C041
+1079,July,Delhi,Laptop,Electronics,1,50000,50000,C022
+1080,March,Delhi,Mobile Phone,Electronics,8,15000,120000,C036
+1081,December,Bangalore,T-Shirt,Fashion,1,600,600,C008
+1082,February,Pune,T-Shirt,Fashion,1,600,600,C024
+1083,October,Pune,Shoes,Fashion,3,2500,7500,C003
+1084,May,Delhi,Laptop,Electronics,6,50000,300000,C014
+1085,November,Pune,Refrigerator,Appliances,2,30000,60000,C023
+1086,September,Bangalore,T-Shirt,Fashion,3,600,1800,C016
+1087,March,Pune,Shoes,Fashion,1,2500,2500,C012
+1088,December,Delhi,Shoes,Fashion,4,2500,10000,C018
+1089,March,Mumbai,Shoes,Fashion,1,2500,2500,C031
+1090,April,Pune,Shoes,Fashion,6,2500,15000,C020
+1091,April,Pune,Laptop,Electronics,4,50000,200000,C026
+1092,June,Delhi,Laptop,Electronics,5,50000,250000,C023
+1093,November,Bangalore,Refrigerator,Appliances,9,30000,270000,C022
+1094,January,Mumbai,Headphones,Electronics,3,2000,6000,C038
+1095,May,Mumbai,Laptop,Electronics,10,50000,500000,C028
+1096,June,Delhi,Shoes,Fashion,10,2500,25000,C033
+1097,February,Bangalore,T-Shirt,Fashion,4,600,2400,C017
+1098,January,Bangalore,Laptop,Electronics,9,50000,450000,C035
+1099,November,Pune,Headphones,Electronics,7,2000,14000,C005
+1100,November,Delhi,T-Shirt,Fashion,6,600,3600,C043
+1101,February,Delhi,T-Shirt,Fashion,5,600,3000,C043
+1102,July,Delhi,Shoes,Fashion,5,2500,12500,C036
+1103,March,Pune,Shoes,Fashion,7,2500,17500,C044
+1104,December,Pune,T-Shirt,Fashion,10,600,6000,C020
+1105,July,Mumbai,Headphones,Electronics,5,2000,10000,C014
+1106,July,Delhi,Shoes,Fashion,8,2500,20000,C029
+1107,November,Pune,T-Shirt,Fashion,8,600,4800,C048
+1108,March,Mumbai,Headphones,Electronics,9,2000,18000,C043
+1109,November,Delhi,Laptop,Electronics,4,50000,200000,C044
+1110,May,Pune,Mobile Phone,Electronics,3,15000,45000,C002
+1111,January,Pune,Shoes,Fashion,10,2500,25000,C050
+1112,February,Bangalore,Shoes,Fashion,10,2500,25000,C013
+1113,December,Bangalore,Shoes,Fashion,7,2500,17500,C016
+1114,March,Mumbai,Laptop,Electronics,7,50000,350000,C015
+1115,March,Bangalore,Laptop,Electronics,9,50000,450000,C016
+1116,February,Bangalore,Mobile Phone,Electronics,8,15000,120000,C043
+1117,September,Delhi,Shoes,Fashion,10,2500,25000,C047
+1118,September,Bangalore,T-Shirt,Fashion,8,600,4800,C011
+1119,December,Bangalore,Shoes,Fashion,5,2500,12500,C049
+1120,April,Delhi,T-Shirt,Fashion,8,600,4800,C041
+1121,April,Delhi,Shoes,Fashion,2,2500,5000,C046
+1122,May,Pune,Headphones,Electronics,6,2000,12000,C021
+1123,September,Mumbai,Mobile Phone,Electronics,3,15000,45000,C015
+1124,July,Pune,Refrigerator,Appliances,4,30000,120000,C005
+1125,July,Bangalore,Headphones,Electronics,9,2000,18000,C030
+1126,July,Mumbai,Mobile Phone,Electronics,7,15000,105000,C025
+1127,October,Mumbai,T-Shirt,Fashion,7,600,4200,C031
+1128,January,Delhi,Headphones,Electronics,7,2000,14000,C027
+1129,September,Pune,Shoes,Fashion,4,2500,10000,C018
+1130,July,Bangalore,Laptop,Electronics,7,50000,350000,C022
+1131,November,Bangalore,Refrigerator,Appliances,3,30000,90000,C030
+1132,March,Mumbai,Shoes,Fashion,10,2500,25000,C037
+1133,November,Mumbai,Laptop,Electronics,7,50000,350000,C009
+1134,August,Pune,Laptop,Electronics,5,50000,250000,C025
+1135,June,Pune,Shoes,Fashion,6,2500,15000,C022
+1136,July,Delhi,Shoes,Fashion,5,2500,12500,C006
+1137,August,Mumbai,Refrigerator,Appliances,9,30000,270000,C004
+1138,June,Pune,Refrigerator,Appliances,2,30000,60000,C050
+1139,November,Mumbai,Laptop,Electronics,4,50000,200000,C013
+1140,January,Pune,Mobile Phone,Electronics,3,15000,45000,C031
+1141,November,Mumbai,T-Shirt,Fashion,4,600,2400,C030
+1142,December,Delhi,Headphones,Electronics,3,2000,6000,C039
+1143,October,Mumbai,Mobile Phone,Electronics,5,15000,75000,C007
+1144,October,Mumbai,Headphones,Electronics,10,2000,20000,C044
+1145,July,Bangalore,Refrigerator,Appliances,4,30000,120000,C005
+1146,October,Pune,Laptop,Electronics,5,50000,250000,C044
+1147,October,Mumbai,T-Shirt,Fashion,1,600,600,C023
+1148,September,Bangalore,Refrigerator,Appliances,6,30000,180000,C005
+1149,September,Delhi,Laptop,Electronics,7,50000,350000,C032
+1150,February,Bangalore,Headphones,Electronics,8,2000,16000,C046
+1151,March,Bangalore,Mobile Phone,Electronics,9,15000,135000,C042
+1152,May,Bangalore,Shoes,Fashion,7,2500,17500,C047
+1153,October,Delhi,Headphones,Electronics,4,2000,8000,C006
+1154,May,Bangalore,Mobile Phone,Electronics,8,15000,120000,C037
+1155,October,Bangalore,Headphones,Electronics,1,2000,2000,C032
+1156,June,Pune,Shoes,Fashion,4,2500,10000,C023
+1157,May,Delhi,Headphones,Electronics,10,2000,20000,C045
+1158,May,Mumbai,T-Shirt,Fashion,4,600,2400,C006
+1159,April,Bangalore,Shoes,Fashion,9,2500,22500,C049
+1160,April,Bangalore,Refrigerator,Appliances,8,30000,240000,C029
+1161,January,Mumbai,Headphones,Electronics,4,2000,8000,C026
+1162,December,Pune,Headphones,Electronics,10,2000,20000,C024
+1163,August,Delhi,Shoes,Fashion,9,2500,22500,C022
+1164,June,Bangalore,Headphones,Electronics,5,2000,10000,C017
+1165,April,Mumbai,Refrigerator,Appliances,4,30000,120000,C021
+1166,February,Pune,Mobile Phone,Electronics,4,15000,60000,C048
+1167,August,Delhi,Refrigerator,Appliances,10,30000,300000,C049
+1168,September,Delhi,Laptop,Electronics,4,50000,200000,C019
+1169,April,Delhi,Mobile Phone,Electronics,5,15000,75000,C001
+1170,December,Pune,Headphones,Electronics,1,2000,2000,C004
+1171,September,Delhi,Refrigerator,Appliances,3,30000,90000,C041
+1172,August,Mumbai,Laptop,Electronics,10,50000,500000,C019
+1173,August,Bangalore,Shoes,Fashion,6,2500,15000,C012
+1174,January,Delhi,Shoes,Fashion,2,2500,5000,C005
+1175,July,Bangalore,Laptop,Electronics,10,50000,500000,C041
+1176,November,Mumbai,Mobile Phone,Electronics,3,15000,45000,C037
+1177,May,Mumbai,Mobile Phone,Electronics,2,15000,30000,C036
+1178,July,Pune,T-Shirt,Fashion,7,600,4200,C029
+1179,August,Delhi,T-Shirt,Fashion,7,600,4200,C020
+1180,October,Mumbai,T-Shirt,Fashion,2,600,1200,C049
+1181,April,Pune,Headphones,Electronics,2,2000,4000,C011
+1182,April,Pune,T-Shirt,Fashion,2,600,1200,C011
+1183,January,Bangalore,Shoes,Fashion,10,2500,25000,C031
+1184,May,Mumbai,Mobile Phone,Electronics,5,15000,75000,C046
+1185,May,Bangalore,Laptop,Electronics,4,50000,200000,C017
+1186,November,Pune,Shoes,Fashion,2,2500,5000,C035
+1187,April,Pune,Headphones,Electronics,3,2000,6000,C005
+1188,January,Pune,Headphones,Electronics,10,2000,20000,C048
+1189,October,Delhi,Shoes,Fashion,2,2500,5000,C030
+1190,December,Delhi,Refrigerator,Appliances,7,30000,210000,C018
+1191,September,Bangalore,Shoes,Fashion,2,2500,5000,C039
+1192,January,Bangalore,Refrigerator,Appliances,6,30000,180000,C039
+1193,May,Mumbai,Laptop,Electronics,4,50000,200000,C044
+1194,October,Mumbai,Refrigerator,Appliances,5,30000,150000,C037
+1195,January,Pune,Shoes,Fashion,9,2500,22500,C042
+1196,August,Delhi,Mobile Phone,Electronics,10,15000,150000,C028
+1197,November,Bangalore,Laptop,Electronics,8,50000,400000,C023
+1198,July,Delhi,Headphones,Electronics,2,2000,4000,C011
+1199,June,Bangalore,Refrigerator,Appliances,8,30000,240000,C019
+1200,November,Bangalore,T-Shirt,Fashion,1,600,600,C030
+1201,February,Delhi,Headphones,Electronics,6,2000,12000,C008
+1202,July,Mumbai,Refrigerator,Appliances,9,30000,270000,C030
+1203,July,Mumbai,Mobile Phone,Electronics,9,15000,135000,C024
+1204,October,Bangalore,Refrigerator,Appliances,8,30000,240000,C049
+1205,January,Pune,Headphones,Electronics,9,2000,18000,C009
+1206,May,Bangalore,Refrigerator,Appliances,8,30000,240000,C008
+1207,January,Pune,Refrigerator,Appliances,3,30000,90000,C020
+1208,September,Mumbai,T-Shirt,Fashion,7,600,4200,C006
+1209,April,Mumbai,Shoes,Fashion,2,2500,5000,C042
+1210,March,Bangalore,Refrigerator,Appliances,5,30000,150000,C033
+1211,December,Delhi,Shoes,Fashion,8,2500,20000,C031
+1212,April,Bangalore,T-Shirt,Fashion,3,600,1800,C025
+1213,April,Pune,Laptop,Electronics,5,50000,250000,C050
+1214,July,Delhi,T-Shirt,Fashion,5,600,3000,C001
+1215,May,Delhi,T-Shirt,Fashion,10,600,6000,C043
+1216,August,Pune,Shoes,Fashion,9,2500,22500,C031
+1217,June,Delhi,T-Shirt,Fashion,9,600,5400,C025
+1218,August,Delhi,Mobile Phone,Electronics,4,15000,60000,C037
+1219,July,Pune,Shoes,Fashion,1,2500,2500,C021
+1220,December,Bangalore,Refrigerator,Appliances,7,30000,210000,C025
+1221,November,Pune,Shoes,Fashion,1,2500,2500,C009
+1222,September,Delhi,Laptop,Electronics,8,50000,400000,C007
+1223,September,Bangalore,Laptop,Electronics,3,50000,150000,C027
+1224,November,Pune,Laptop,Electronics,8,50000,400000,C017
+1225,June,Bangalore,Refrigerator,Appliances,2,30000,60000,C022
+1226,November,Bangalore,Headphones,Electronics,8,2000,16000,C035
+1227,January,Mumbai,Mobile Phone,Electronics,5,15000,75000,C015
+1228,December,Mumbai,Shoes,Fashion,2,2500,5000,C049
+1229,November,Mumbai,Shoes,Fashion,3,2500,7500,C045
+1230,May,Mumbai,Laptop,Electronics,6,50000,300000,C004
+1231,May,Delhi,Headphones,Electronics,7,2000,14000,C010
+1232,April,Bangalore,T-Shirt,Fashion,3,600,1800,C011
+1233,March,Mumbai,T-Shirt,Fashion,7,600,4200,C040
+1234,November,Pune,Shoes,Fashion,10,2500,25000,C010
+1235,April,Bangalore,Refrigerator,Appliances,5,30000,150000,C030
+1236,May,Mumbai,Shoes,Fashion,5,2500,12500,C044
+1237,September,Pune,Laptop,Electronics,8,50000,400000,C023
+1238,October,Delhi,Refrigerator,Appliances,7,30000,210000,C045
+1239,May,Bangalore,Headphones,Electronics,4,2000,8000,C025
+1240,August,Mumbai,Mobile Phone,Electronics,7,15000,105000,C037
+1241,June,Delhi,Refrigerator,Appliances,5,30000,150000,C002
+1242,November,Bangalore,Headphones,Electronics,1,2000,2000,C037
+1243,November,Mumbai,T-Shirt,Fashion,8,600,4800,C019
+1244,April,Delhi,Mobile Phone,Electronics,4,15000,60000,C040
+1245,May,Pune,Refrigerator,Appliances,2,30000,60000,C041
+1246,November,Mumbai,Headphones,Electronics,8,2000,16000,C003
+1247,October,Delhi,Refrigerator,Appliances,3,30000,90000,C006
+1248,May,Delhi,Refrigerator,Appliances,7,30000,210000,C012
+1249,April,Pune,T-Shirt,Fashion,6,600,3600,C034
+1250,September,Delhi,Mobile Phone,Electronics,5,15000,75000,C031
+1251,May,Delhi,Laptop,Electronics,8,50000,400000,C005
+1252,March,Pune,Refrigerator,Appliances,7,30000,210000,C036
+1253,June,Mumbai,Shoes,Fashion,1,2500,2500,C017
+1254,September,Mumbai,Shoes,Fashion,6,2500,15000,C044
+1255,December,Delhi,T-Shirt,Fashion,7,600,4200,C041
+1256,June,Mumbai,Refrigerator,Appliances,4,30000,120000,C031
+1257,January,Delhi,T-Shirt,Fashion,4,600,2400,C042
+1258,February,Bangalore,Refrigerator,Appliances,5,30000,150000,C042
+1259,July,Mumbai,Mobile Phone,Electronics,1,15000,15000,C003
+1260,May,Bangalore,Laptop,Electronics,2,50000,100000,C016
+1261,September,Pune,Shoes,Fashion,8,2500,20000,C024
+1262,November,Bangalore,T-Shirt,Fashion,3,600,1800,C027
+1263,November,Mumbai,Shoes,Fashion,10,2500,25000,C027
+1264,May,Mumbai,Refrigerator,Appliances,6,30000,180000,C014
+1265,August,Bangalore,Mobile Phone,Electronics,6,15000,90000,C007
+1266,November,Delhi,T-Shirt,Fashion,6,600,3600,C004
+1267,July,Delhi,Mobile Phone,Electronics,2,15000,30000,C030
+1268,February,Pune,Refrigerator,Appliances,10,30000,300000,C002
+1269,January,Delhi,Mobile Phone,Electronics,3,15000,45000,C037
+1270,April,Mumbai,T-Shirt,Fashion,4,600,2400,C038
+1271,April,Pune,Headphones,Electronics,3,2000,6000,C039
+1272,January,Delhi,Mobile Phone,Electronics,3,15000,45000,C035
+1273,May,Pune,Laptop,Electronics,1,50000,50000,C009
+1274,January,Delhi,Mobile Phone,Electronics,10,15000,150000,C021
+1275,January,Pune,Headphones,Electronics,1,2000,2000,C009
+1276,December,Bangalore,T-Shirt,Fashion,2,600,1200,C048
+1277,February,Bangalore,Shoes,Fashion,6,2500,15000,C033
+1278,October,Mumbai,Shoes,Fashion,9,2500,22500,C015
+1279,October,Mumbai,Refrigerator,Appliances,9,30000,270000,C020
+1280,August,Mumbai,Laptop,Electronics,8,50000,400000,C026
+1281,July,Mumbai,Shoes,Fashion,8,2500,20000,C005
+1282,February,Delhi,T-Shirt,Fashion,3,600,1800,C005
+1283,March,Delhi,T-Shirt,Fashion,10,600,6000,C036
+1284,December,Delhi,Shoes,Fashion,10,2500,25000,C034
+1285,May,Bangalore,T-Shirt,Fashion,10,600,6000,C028
+1286,February,Mumbai,Refrigerator,Appliances,9,30000,270000,C047
+1287,April,Bangalore,Shoes,Fashion,4,2500,10000,C027
+1288,June,Bangalore,Shoes,Fashion,7,2500,17500,C047
+1289,February,Delhi,Shoes,Fashion,6,2500,15000,C043
+1290,May,Delhi,Mobile Phone,Electronics,8,15000,120000,C005
+1291,February,Mumbai,Laptop,Electronics,7,50000,350000,C007
+1292,December,Delhi,Mobile Phone,Electronics,9,15000,135000,C004
+1293,October,Delhi,Refrigerator,Appliances,2,30000,60000,C027
+1294,June,Bangalore,Refrigerator,Appliances,1,30000,30000,C019
+1295,October,Delhi,Headphones,Electronics,2,2000,4000,C037
+1296,September,Pune,Mobile Phone,Electronics,8,15000,120000,C015
+1297,February,Delhi,T-Shirt,Fashion,6,600,3600,C008
+1298,May,Pune,Shoes,Fashion,9,2500,22500,C050
+1299,October,Mumbai,T-Shirt,Fashion,5,600,3000,C002
+1300,March,Delhi,Refrigerator,Appliances,5,30000,150000,C022
+1301,June,Mumbai,Mobile Phone,Electronics,3,15000,45000,C037
+1302,November,Bangalore,Laptop,Electronics,3,50000,150000,C048
+1303,November,Mumbai,Laptop,Electronics,9,50000,450000,C014
+1304,July,Bangalore,Shoes,Fashion,6,2500,15000,C011
+1305,June,Delhi,Refrigerator,Appliances,6,30000,180000,C050
+1306,October,Mumbai,Laptop,Electronics,3,50000,150000,C011
+1307,October,Mumbai,Refrigerator,Appliances,2,30000,60000,C018
+1308,August,Bangalore,Shoes,Fashion,10,2500,25000,C029
+1309,July,Delhi,Mobile Phone,Electronics,9,15000,135000,C008
+1310,June,Bangalore,Laptop,Electronics,5,50000,250000,C044
+1311,November,Bangalore,T-Shirt,Fashion,5,600,3000,C003
+1312,April,Bangalore,T-Shirt,Fashion,1,600,600,C001
+1313,April,Delhi,Mobile Phone,Electronics,3,15000,45000,C049
+1314,May,Delhi,Headphones,Electronics,2,2000,4000,C001
+1315,August,Bangalore,Mobile Phone,Electronics,3,15000,45000,C025
+1316,September,Pune,T-Shirt,Fashion,9,600,5400,C043
+1317,June,Mumbai,Shoes,Fashion,1,2500,2500,C028
+1318,January,Bangalore,Laptop,Electronics,6,50000,300000,C037
+1319,July,Bangalore,Refrigerator,Appliances,7,30000,210000,C019
+1320,February,Bangalore,Laptop,Electronics,6,50000,300000,C011
+1321,October,Bangalore,Refrigerator,Appliances,6,30000,180000,C006
+1322,July,Mumbai,Mobile Phone,Electronics,7,15000,105000,C038
+1323,July,Mumbai,Shoes,Fashion,5,2500,12500,C048
+1324,June,Pune,Headphones,Electronics,3,2000,6000,C005
+1325,September,Mumbai,T-Shirt,Fashion,9,600,5400,C013
+1326,June,Delhi,Refrigerator,Appliances,3,30000,90000,C016
+1327,February,Pune,Headphones,Electronics,4,2000,8000,C012
+1328,October,Pune,Refrigerator,Appliances,2,30000,60000,C012
+1329,November,Bangalore,Shoes,Fashion,10,2500,25000,C049
+1330,October,Bangalore,Refrigerator,Appliances,10,30000,300000,C042
+1331,November,Delhi,Refrigerator,Appliances,6,30000,180000,C010
+1332,August,Mumbai,Shoes,Fashion,8,2500,20000,C041
+1333,May,Delhi,T-Shirt,Fashion,1,600,600,C023
+1334,September,Mumbai,Headphones,Electronics,8,2000,16000,C029
+1335,January,Mumbai,Headphones,Electronics,5,2000,10000,C005
+1336,November,Mumbai,T-Shirt,Fashion,10,600,6000,C033
+1337,July,Bangalore,T-Shirt,Fashion,9,600,5400,C048
+1338,January,Bangalore,T-Shirt,Fashion,4,600,2400,C021
+1339,October,Bangalore,T-Shirt,Fashion,3,600,1800,C004
+1340,August,Mumbai,Headphones,Electronics,2,2000,4000,C033
+1341,November,Pune,Laptop,Electronics,4,50000,200000,C046
+1342,August,Bangalore,T-Shirt,Fashion,9,600,5400,C040
+1343,March,Delhi,Headphones,Electronics,5,2000,10000,C025
+1344,July,Delhi,Refrigerator,Appliances,10,30000,300000,C004
+1345,November,Delhi,Laptop,Electronics,6,50000,300000,C007
+1346,September,Bangalore,Headphones,Electronics,5,2000,10000,C047
+1347,November,Pune,Headphones,Electronics,2,2000,4000,C038
+1348,November,Pune,Headphones,Electronics,5,2000,10000,C042
+1349,December,Bangalore,Mobile Phone,Electronics,10,15000,150000,C046
+1350,February,Delhi,T-Shirt,Fashion,7,600,4200,C042
+1351,June,Pune,Refrigerator,Appliances,9,30000,270000,C006
+1352,November,Bangalore,T-Shirt,Fashion,6,600,3600,C002
+1353,June,Delhi,Mobile Phone,Electronics,4,15000,60000,C022
+1354,August,Pune,Mobile Phone,Electronics,3,15000,45000,C010
+1355,February,Delhi,Laptop,Electronics,9,50000,450000,C050
+1356,September,Mumbai,Refrigerator,Appliances,6,30000,180000,C050
+1357,October,Pune,T-Shirt,Fashion,7,600,4200,C010
+1358,March,Pune,Refrigerator,Appliances,10,30000,300000,C011
+1359,December,Bangalore,Laptop,Electronics,7,50000,350000,C024
+1360,November,Pune,Shoes,Fashion,10,2500,25000,C019
+1361,December,Bangalore,Mobile Phone,Electronics,9,15000,135000,C016
+1362,May,Bangalore,Mobile Phone,Electronics,6,15000,90000,C044
+1363,October,Bangalore,Shoes,Fashion,5,2500,12500,C050
+1364,July,Bangalore,Mobile Phone,Electronics,4,15000,60000,C039
+1365,March,Delhi,Laptop,Electronics,8,50000,400000,C024
+1366,September,Mumbai,Refrigerator,Appliances,9,30000,270000,C008
+1367,May,Mumbai,Mobile Phone,Electronics,5,15000,75000,C029
+1368,September,Pune,Shoes,Fashion,2,2500,5000,C015
+1369,August,Delhi,Laptop,Electronics,7,50000,350000,C004
+1370,July,Delhi,Mobile Phone,Electronics,7,15000,105000,C006
+1371,June,Pune,Laptop,Electronics,6,50000,300000,C007
+1372,December,Delhi,Mobile Phone,Electronics,3,15000,45000,C003
+1373,May,Bangalore,Refrigerator,Appliances,3,30000,90000,C049
+1374,December,Bangalore,Shoes,Fashion,10,2500,25000,C001
+1375,February,Mumbai,Headphones,Electronics,4,2000,8000,C010
+1376,September,Bangalore,Laptop,Electronics,5,50000,250000,C016
+1377,May,Mumbai,Laptop,Electronics,4,50000,200000,C027
+1378,November,Bangalore,Laptop,Electronics,2,50000,100000,C032
+1379,October,Mumbai,Refrigerator,Appliances,9,30000,270000,C037
+1380,April,Pune,Headphones,Electronics,7,2000,14000,C001
+1381,October,Delhi,Mobile Phone,Electronics,10,15000,150000,C027
+1382,March,Mumbai,T-Shirt,Fashion,6,600,3600,C005
+1383,September,Mumbai,Shoes,Fashion,8,2500,20000,C003
+1384,November,Bangalore,Headphones,Electronics,5,2000,10000,C048
+1385,January,Delhi,Laptop,Electronics,6,50000,300000,C016
+1386,December,Mumbai,T-Shirt,Fashion,6,600,3600,C009
+1387,January,Delhi,T-Shirt,Fashion,6,600,3600,C042
+1388,March,Bangalore,Refrigerator,Appliances,8,30000,240000,C041
+1389,March,Pune,Laptop,Electronics,8,50000,400000,C003
+1390,May,Pune,Laptop,Electronics,4,50000,200000,C003
+1391,June,Delhi,T-Shirt,Fashion,7,600,4200,C035
+1392,August,Delhi,Laptop,Electronics,4,50000,200000,C019
+1393,June,Mumbai,Refrigerator,Appliances,6,30000,180000,C018
+1394,February,Delhi,Shoes,Fashion,7,2500,17500,C048
+1395,August,Bangalore,Headphones,Electronics,3,2000,6000,C032
+1396,December,Bangalore,Headphones,Electronics,9,2000,18000,C018
+1397,February,Bangalore,Laptop,Electronics,7,50000,350000,C039
+1398,March,Delhi,Headphones,Electronics,2,2000,4000,C006
+1399,June,Delhi,Headphones,Electronics,8,2000,16000,C039
+1400,December,Bangalore,Mobile Phone,Electronics,8,15000,120000,C023
+1401,August,Mumbai,Refrigerator,Appliances,6,30000,180000,C040
+1402,July,Delhi,Refrigerator,Appliances,1,30000,30000,C005
+1403,November,Bangalore,Headphones,Electronics,9,2000,18000,C048
+1404,November,Pune,Laptop,Electronics,3,50000,150000,C039
+1405,November,Bangalore,Laptop,Electronics,3,50000,150000,C005
+1406,April,Delhi,Headphones,Electronics,7,2000,14000,C037
+1407,January,Pune,Refrigerator,Appliances,8,30000,240000,C024
+1408,June,Bangalore,Laptop,Electronics,10,50000,500000,C009
+1409,September,Delhi,Shoes,Fashion,6,2500,15000,C042
+1410,May,Pune,Laptop,Electronics,1,50000,50000,C048
+1411,March,Bangalore,T-Shirt,Fashion,7,600,4200,C036
+1412,February,Delhi,Headphones,Electronics,8,2000,16000,C014
+1413,October,Delhi,Refrigerator,Appliances,8,30000,240000,C013
+1414,February,Pune,Laptop,Electronics,8,50000,400000,C012
+1415,December,Bangalore,Laptop,Electronics,6,50000,300000,C043
+1416,June,Mumbai,T-Shirt,Fashion,9,600,5400,C019
+1417,May,Pune,Refrigerator,Appliances,3,30000,90000,C024
+1418,September,Pune,Laptop,Electronics,4,50000,200000,C009
+1419,April,Bangalore,Laptop,Electronics,6,50000,300000,C036
+1420,October,Delhi,Shoes,Fashion,9,2500,22500,C009
+1421,October,Mumbai,Laptop,Electronics,5,50000,250000,C026
+1422,December,Bangalore,T-Shirt,Fashion,7,600,4200,C050
+1423,July,Mumbai,Mobile Phone,Electronics,6,15000,90000,C042
+1424,February,Bangalore,Shoes,Fashion,9,2500,22500,C023
+1425,March,Pune,Mobile Phone,Electronics,7,15000,105000,C033
+1426,January,Mumbai,T-Shirt,Fashion,3,600,1800,C020
+1427,March,Pune,Headphones,Electronics,4,2000,8000,C023
+1428,September,Delhi,Laptop,Electronics,5,50000,250000,C013
+1429,November,Delhi,Mobile Phone,Electronics,5,15000,75000,C040
+1430,September,Mumbai,T-Shirt,Fashion,3,600,1800,C038
+1431,October,Pune,Mobile Phone,Electronics,10,15000,150000,C047
+1432,October,Delhi,T-Shirt,Fashion,1,600,600,C002
+1433,February,Mumbai,Refrigerator,Appliances,10,30000,300000,C017
+1434,November,Pune,T-Shirt,Fashion,7,600,4200,C040
+1435,November,Mumbai,Shoes,Fashion,9,2500,22500,C019
+1436,November,Delhi,Shoes,Fashion,4,2500,10000,C044
+1437,July,Delhi,Shoes,Fashion,2,2500,5000,C045
+1438,January,Pune,Shoes,Fashion,7,2500,17500,C031
+1439,August,Pune,Headphones,Electronics,10,2000,20000,C010
+1440,June,Delhi,Refrigerator,Appliances,6,30000,180000,C026
+1441,March,Delhi,T-Shirt,Fashion,9,600,5400,C007
+1442,June,Pune,Shoes,Fashion,2,2500,5000,C018
+1443,August,Pune,Mobile Phone,Electronics,2,15000,30000,C004
+1444,May,Bangalore,T-Shirt,Fashion,7,600,4200,C016
+1445,March,Delhi,T-Shirt,Fashion,6,600,3600,C013
+1446,March,Bangalore,T-Shirt,Fashion,8,600,4800,C032
+1447,May,Bangalore,Laptop,Electronics,2,50000,100000,C026
+1448,September,Bangalore,Mobile Phone,Electronics,4,15000,60000,C038
+1449,June,Mumbai,Laptop,Electronics,5,50000,250000,C032
+1450,October,Bangalore,Headphones,Electronics,9,2000,18000,C001
+1451,February,Bangalore,Mobile Phone,Electronics,5,15000,75000,C047
+1452,June,Bangalore,Headphones,Electronics,1,2000,2000,C026
+1453,January,Pune,Headphones,Electronics,9,2000,18000,C019
+1454,February,Bangalore,T-Shirt,Fashion,8,600,4800,C049
+1455,September,Delhi,T-Shirt,Fashion,10,600,6000,C008
+1456,March,Mumbai,Shoes,Fashion,6,2500,15000,C022
+1457,September,Delhi,Mobile Phone,Electronics,4,15000,60000,C039
+1458,September,Bangalore,T-Shirt,Fashion,1,600,600,C003
+1459,January,Pune,Refrigerator,Appliances,6,30000,180000,C031
+1460,September,Bangalore,Mobile Phone,Electronics,10,15000,150000,C033
+1461,March,Delhi,T-Shirt,Fashion,6,600,3600,C011
+1462,July,Delhi,T-Shirt,Fashion,6,600,3600,C033
+1463,September,Bangalore,Refrigerator,Appliances,10,30000,300000,C020
+1464,August,Mumbai,Headphones,Electronics,6,2000,12000,C044
+1465,February,Bangalore,T-Shirt,Fashion,5,600,3000,C047
+1466,December,Mumbai,T-Shirt,Fashion,8,600,4800,C017
+1467,November,Pune,Refrigerator,Appliances,1,30000,30000,C038
+1468,August,Pune,T-Shirt,Fashion,10,600,6000,C050
+1469,July,Pune,Refrigerator,Appliances,4,30000,120000,C003
+1470,October,Mumbai,Mobile Phone,Electronics,1,15000,15000,C029
+1471,June,Bangalore,Mobile Phone,Electronics,7,15000,105000,C045
+1472,April,Bangalore,T-Shirt,Fashion,10,600,6000,C031
+1473,December,Mumbai,Refrigerator,Appliances,3,30000,90000,C034
+1474,April,Delhi,Refrigerator,Appliances,8,30000,240000,C034
+1475,July,Delhi,Mobile Phone,Electronics,8,15000,120000,C035
+1476,June,Delhi,Refrigerator,Appliances,5,30000,150000,C040
+1477,August,Pune,Mobile Phone,Electronics,5,15000,75000,C036
+1478,May,Pune,Headphones,Electronics,5,2000,10000,C046
+1479,April,Bangalore,Headphones,Electronics,8,2000,16000,C023
+1480,September,Delhi,Headphones,Electronics,2,2000,4000,C037
+1481,November,Bangalore,Shoes,Fashion,6,2500,15000,C050
+1482,March,Delhi,Laptop,Electronics,5,50000,250000,C046
+1483,February,Delhi,Shoes,Fashion,5,2500,12500,C048
+1484,August,Pune,Mobile Phone,Electronics,9,15000,135000,C018
+1485,September,Delhi,Mobile Phone,Electronics,2,15000,30000,C040
+1486,December,Pune,Mobile Phone,Electronics,1,15000,15000,C043
+1487,September,Pune,Refrigerator,Appliances,4,30000,120000,C004
+1488,February,Bangalore,Headphones,Electronics,8,2000,16000,C007
+1489,November,Pune,Laptop,Electronics,9,50000,450000,C011
+1490,July,Bangalore,Shoes,Fashion,4,2500,10000,C049
+1491,May,Delhi,Headphones,Electronics,1,2000,2000,C050
+1492,February,Pune,T-Shirt,Fashion,1,600,600,C012
+1493,July,Pune,Laptop,Electronics,7,50000,350000,C032
+1494,March,Delhi,Laptop,Electronics,1,50000,50000,C020
+1495,October,Mumbai,Headphones,Electronics,5,2000,10000,C030
+1496,November,Bangalore,Mobile Phone,Electronics,9,15000,135000,C030
+1497,May,Pune,Laptop,Electronics,6,50000,300000,C011
+1498,December,Bangalore,Refrigerator,Appliances,5,30000,150000,C046
+1499,March,Mumbai,Refrigerator,Appliances,6,30000,180000,C019
