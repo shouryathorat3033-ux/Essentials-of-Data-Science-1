@@ -1,20 +1,16 @@
-# 📊 Essentials of Data Science Lab (2304102L)
+# 📊 Essentials of Data Science Lab
 
-> **Course** · EDS Lab
-> **Institute** · MIT Academy of Engineering
-> **Year** · 2025–2026
+> MIT Academy of Engineering · 2025–26
 
 ---
 
-## 🗂️ Practicals Overview
+## 🗂️ Practicals
 
-| Practical                                                      | Topic               |
-| -------------------------------------------------------------- | ------------------- |
-| [Practical 01](#-practical-01--python-fundamentals)            | Python Fundamentals |
-| [Practical 02](#-practical-02--data-structures)                | Data Structures     |
-| [Practical 03](#-practical-03--numpy)                          | NumPy               |
-| [Practical 04](#-practical-04--pandas)                         | Pandas              |
-| [Practical 05](#-practical-05--matplotlib--data-visualization) | Matplotlib          |
+* [Python Fundamentals](#-practical-01--python-fundamentals)
+* [Data Structures](#-practical-02--data-structures)
+* [NumPy](#-practical-03--numpy)
+* [Pandas](#-practical-04--pandas)
+* [Matplotlib](#-practical-05--matplotlib)
 
 ---
 
@@ -22,20 +18,20 @@
 
 ### 📝 Lab Assignments
 
-* [Grades Program](./Practical_01/lab_01_grades.py)
-* [Fibonacci](./Practical_01/lab_02_fibonacci.py)
-* [Patterns](./Practical_01/lab_03_patterns.py)
+* [Grades Program](./Essentials-of-Data-Science-main/Practical_01/lab_01_grades.py)
+* [Fibonacci](./Essentials-of-Data-Science-main/Practical_01/lab_02_fibonacci.py)
+* [Patterns](./Essentials-of-Data-Science-main/Practical_01/lab_03_patterns.py)
 
 ### ✅ Practice
 
-* [Momentum](./Practical_01/practice_01_momentum.py)
-* [Conditions](./Practical_01/practice_02_conditions.py)
-* [Transformation](./Practical_01/practice_03_transformation.py)
-* [Reverse Number](./Practical_01/practice_04_reverse.py)
+* [Momentum](./Essentials-of-Data-Science-main/Practical_01/practice_01_momentum.py)
+* [Conditions](./Essentials-of-Data-Science-main/Practical_01/practice_02_conditions.py)
+* [Transformation](./Essentials-of-Data-Science-main/Practical_01/practice_03_transformation.py)
+* [Reverse Number](./Essentials-of-Data-Science-main/Practical_01/practice_04_reverse.py)
 
 ### 📚 Self Study
 
-* [Statistics](./Practical_01/self_study_statistics.py)
+* [Statistics](./Essentials-of-Data-Science-main/Practical_01/self_study_statistics.py)
 
 ---
 
@@ -43,53 +39,53 @@
 
 ### 📝 Lab Assignments
 
-* [Linear Search](./Practical_02/lab_01_linear_search.py)
-* [Cricket Captain](./Practical_02/lab_02_cricket_captain.py)
+* [Linear Search](./Essentials-of-Data-Science-main/Practical_02/lab_01_linear_search.py)
+* [Cricket Captain](./Essentials-of-Data-Science-main/Practical_02/lab_02_cricket_captain.py)
 
 ### ✅ Practice
 
-* [List & Dictionary](./Practical_02/practice_01_list_dict.py)
+* [List & Dictionary](./Essentials-of-Data-Science-main/Practical_02/practice_01_list_dict.py)
 
 ### 📚 Self Study
 
-* [Marks](./Practical_02/self_study_01_marks.py)
-* [Tuple](./Practical_02/self_study_02_tuple.py)
+* [Marks](./Essentials-of-Data-Science-main/Practical_02/self_study_01_marks.py)
+* [Tuple](./Essentials-of-Data-Science-main/Practical_02/self_study_02_tuple.py)
 
 ---
 
 ## 🔢 Practical 03 — NumPy
 
-📓 [Open Notebook](./numpy_operations.ipynb)
+📓 [Open Notebook](./Essentials-of-Data-Science-main/numpy_operations.ipynb)
 
 ---
 
 ## 🐼 Practical 04 — Pandas
 
-📓 [Open Notebook](./pandas_operations.ipynb)
+📓 [Open Notebook](./Essentials-of-Data-Science-main/pandas_operations.ipynb)
 
 ---
 
 ## 📈 Practical 05 — Matplotlib
 
-📓 [Open Notebook](./matplotlib_operations.ipynb)
+📓 [Open Notebook](./Essentials-of-Data-Science-main/matplotlib_operations.ipynb)
 
 ---
 
 ## 📜 Certificates
 
-* [Python Essentials 1](./certificates/python_essentials_1.pdf)
-* [Python Essentials 2](./certificates/python_essentials_2.pdf)
+* [Python Essentials 1](./Essentials-of-Data-Science-main/certificates/python_essentials_1.pdf)
+* [Python Essentials 2](./Essentials-of-Data-Science-main/certificates/python_essentials_2.pdf)
 
 ---
 
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/shouryathorat3033-ux/Essentials-of-Data-Science-1.git
 cd Essentials-of-Data-Science-main
 python Practical_01/lab_01_grades.py
 ```
 
 ---
 
-⭐ If you find this helpful, give it a star!
+⭐ Star this repo if it helped you!
